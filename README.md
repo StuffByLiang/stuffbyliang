@@ -1,12 +1,12 @@
 <h2>Hi there, I'm Liang Liu 👋</h2>
-<img align='right' src="https://stuffbyliang.com/avatar.svg" alt="Avatar of Liang" width="250" height="250" />
+<img align='right' src="https://stuffbyliang.com/avatar.svg" alt="Avatar of Liang" width="150" height="150" />
 
 **About Me**
 
-Sophomore Studying Computer Science at the University of British Columbia in Vancouver, Canada.<br />
-Incoming Software Development Intern at ATB Financial<br />
-Coding ever since I was a kid :D<br />
-Visit my website for more: https://stuffbyliang.com<br />
+* Sophomore Studying Computer Science at the University of British Columbia in Vancouver, Canada.<br />
+* Incoming Software Development Intern at ATB Financial<br />
+* Coding ever since I was a kid :D<br />
+* Visit my website for more: https://stuffbyliang.com<br />
 
 **Personal Stuffs**
 
