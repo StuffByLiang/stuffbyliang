@@ -2,12 +2,14 @@
 <img align='right' src="https://stuffbyliang.com/avatar.svg" alt="Avatar of Liang" width="250" height="250" />
 
 **About Me**
+
 Sophomore Studying Computer Science at the University of British Columbia in Vancouver, Canada.<br />
 Incoming Software Development Intern at ATB Financial<br />
 Coding ever since I was a kid :D<br />
 Visit my website for more: https://stuffbyliang.com<br />
 
 **Personal Stuffs**
+
 * 👨🏽‍💻I’m currently working on something cool :wink:;
 * 🌱 I’m currently learning Machine Learning; 
 * 💬 Ask me about anything, I am happy to help;
@@ -15,6 +17,7 @@ Visit my website for more: https://stuffbyliang.com<br />
 * 📝 [Resume](https://stuffbyliang.com/resume.pdf)
 
 **Current Projects**
+
 * Sleep Analyzer and Smart Alarm Clock using a Raspberry Pi and Python
 
 **Github Stats**
