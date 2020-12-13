@@ -1,10 +1,27 @@
-### Hi there, I'm Liang Liu 👋
+<h2>Hi there, I'm Liang Liu 👋</h2>
+<img align='right' src="https://stuffbyliang.com/avatar.svg" alt="Avatar of Liang" width="250" height="250" />
 
-![Avatar of Liang](https://stuffbyliang.com/avatar.svg)
+**About Me**
+Sophomore Studying Computer Science at the University of British Columbia in Vancouver, Canada.<br />
+Incoming Software Development Intern at ATB Financial<br />
+Coding ever since I was a kid :D<br />
+Visit my website for more: https://stuffbyliang.com<br />
 
-Hi! nice to meet you. I'm currently a sophmore studying Computer Science at the University Of British Columbia in Vancouver, Canada.
+**Personal Stuffs**
+* 👨🏽‍💻I’m currently working on something cool :wink:;
+* 🌱 I’m currently learning Machine Learning; 
+* 💬 Ask me about anything, I am happy to help;
+* 📫 How to reach me: stuffbyliang@gmail.com;
+* 📝 [Resume](https://stuffbyliang.com/resume.pdf)
 
-https://stuffbyliang.com
+**Current Projects**
+* Sleep Analyzer and Smart Alarm Clock using a Raspberry Pi and Python
 
-[![Stuffbyliang's github stats](https://github-readme-stats.vercel.app/api?username=stuffbyliang&count_private=true&show_icons=1)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stuffbyliang&langs_count=7&exclude_repo=krunker_idle_bot,reddit_clone,Image-Pixelizer&hide=CSS,HTML)](https://github.com/anuraghazra/github-readme-stats)
+**Github Stats**
+
+<a href="https://github.com/StuffByLiang/stuffbyliang">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stuffbyliang&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=eec643&bg_color=1d1f21&exclude_repo=krunker_idle_bot,Image-Pixelizer,reddit_clone&layout=compact&langs_count=7" alt="Liang's GitHub Stats" />
+</a>
+<a href="https://github.com/StuffByLiang/stuffbyliang">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stuffbyliang&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=eec643&bg_color=1d1f21" alt="Liang's GitHub Stats" />
+</a>
