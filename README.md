@@ -1,4 +1,4 @@
-<h2>Hi there, I'm Liang Liu 👋</h2>
+<h2>Hi there, I'm David Liu 👋</h2>
 <img align='right' src="https://stuffbyliang.com/avatar.svg" alt="Avatar of Liang" width="150" height="150" />
 
 **About Me**
