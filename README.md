@@ -6,7 +6,7 @@
 * Sophomore Studying Computer Science at the University of British Columbia in Vancouver, Canada.<br />
 * Incoming Software Development Intern at ATB Financial<br />
 * Coding ever since I was a kid :D<br />
-* Visit my website for more: https://stuffbyliang.com<br />
+* Visit my website for more: https://stuffbydavid.ca<br />
 
 **Personal Stuffs**
 
@@ -14,7 +14,7 @@
 * 🌱 I’m currently learning Machine Learning; 
 * 💬 Ask me about anything, I am happy to help;
 * 📫 How to reach me: stuffbyliang@gmail.com;
-* 📝 [Resume](https://stuffbyliang.com/resume.pdf)
+* 📝 [Resume](https://stuffbydavid.ca/resume.pdf)
 
 **Current Projects**
 
