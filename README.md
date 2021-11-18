@@ -3,8 +3,9 @@
 
 **About Me**
 
-* Sophomore Studying Computer Science at the University of British Columbia in Vancouver, Canada.<br />
-* Incoming Software Development Intern at ATB Financial<br />
+* Junior Studying Computer Science at the University of British Columbia in Vancouver, Canada.<br />
+* Incoming Software Development Intern at Databricks and Stripe<br />
+* Previous Software Development Intern at ATB Financial<br />
 * Coding ever since I was a kid :D<br />
 * Visit my website for more: https://stuffbydavid.ca<br />
 
